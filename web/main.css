@@ -1,0 +1,59 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+Body {
+    background: #D4C8A5;
+    margin: 20px;
+    color: white;
+}
+
+#calcul {
+    display: block;
+    box-sizing: border-box;
+    border: none;
+    background: #DEAA88;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    outline: none;
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    text-overflow: ellipsis;
+}
+
+#show {
+    display: block;
+    border: none;
+    background: #E9B067;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    outline: none;
+    width: 100%;
+    font-size: 30px;
+    margin-top: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#show:hover {
+    opacity: .8;
+}
+
+#info {
+    display: block;
+    border: none;
+    background: #F4951A;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    outline: none;
+    width: 94,5%;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 15px;
+    text-align: center;
+}
